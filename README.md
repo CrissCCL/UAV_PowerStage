@@ -1,4 +1,4 @@
-# ⚡🔌 🔋 UAV Power Distribution & Regulation Board
+# ⚡🔌🔋 UAV Power Distribution & Regulation Board
 
 ## Overview
 
@@ -22,6 +22,17 @@ The UAV electronics are now divided into two main subsystems:
 
 The power board is responsible for managing the **battery input**, distributing high-current power to the ESCs, and providing regulated power for low-voltage electronics.
 
+## 🔗 Power Flow Architecture
+
+The power distribution follows a centralized architecture where the battery input is managed by a high-side power switch before being distributed to both high-current and low-voltage domains.
+
+```text
+Battery
+  │
+  └── BTS50005-1LUA
+        ├──► ESC Power Distribution
+        └──► LM2596 Buck Regulator ──► MCU / IMU / Control Electronics
+```
 
 ## ⚡ Power Stage Description
 
@@ -50,17 +61,6 @@ The BTS50005-1LUA is used to safely manage the energy delivered from the UAV bat
 
 By integrating the LM2596 on the same PCB, the board provides a **clean and centralized power source** for the control subsystem.
 
-## 🔗 Power Flow Architecture
-
-The power distribution follows a centralized architecture where the battery input is managed by a high-side power switch before being distributed to both high-current and low-voltage domains.
-
-```text
-Battery
-  │
-  └── BTS50005-1LUA
-        ├──► ESC Power Distribution
-        └──► LM2596 Buck Regulator ──► MCU / IMU / Control Electronics
-```
 
 ## 🖼️ PCB Render Visualization
 

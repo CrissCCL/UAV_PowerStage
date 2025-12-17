@@ -66,4 +66,5 @@ Battery
 <img width="700" alt="stage power dron_v1" src="https://github.com/user-attachments/assets/bec7881d-a832-427a-b596-c14706bd7e3a" />
 </p>
 
-
+## 📜 License
+MIT License

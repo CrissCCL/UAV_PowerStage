@@ -50,13 +50,27 @@ The BTS50005-1LUA is used to safely manage the energy delivered from the UAV bat
 
 By integrating the LM2596 on the same PCB, the board provides a **clean and centralized power source** for the control subsystem.
 
+## 🔗 Power Flow Architecture
 
-## 🔗 Power Flow Summary
+The power distribution follows a centralized architecture where the battery input is managed by a high-side power switch before being distributed to both high-current and low-voltage domains.
 
 ```text
 Battery
   │
-  ├── BTS50005-1LUA ──► ESC Power Distribution
-  │
-  └── LM2596 ─────────► MCU / IMU / Control Electronics
+  └── BTS50005-1LUA
+        ├──► ESC Power Distribution
+        └──► LM2596 Buck Regulator ──► MCU / IMU / Control Electronics
 ```
+
+## 🖼️ PCB Render Visualization
+
+### Power Stage PCB – Top View
+![Power Stage PCB Top](media/images/power_pcb_top.png)
+
+### Power Stage PCB – Bottom View
+![Power Stage PCB Bottom](media/images/power_pcb_bottom.png)
+
+### Integrated Power Architecture
+![Power Architecture Diagram](media/images/power_architecture_diagram.png)
+
+

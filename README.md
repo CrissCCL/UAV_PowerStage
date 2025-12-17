@@ -43,7 +43,7 @@ Battery
   └── BTS50005-1LUA
         ├──► ESC Power Distribution
         └──► LM2596 Buck Regulator ──► MCU / IMU / Control Electronics
-
+```
 
 ## 🖼️ PCB Render Visualization
 

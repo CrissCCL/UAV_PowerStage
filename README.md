@@ -1,4 +1,4 @@
-# ⚡🔌 🔋 UAV Power Distribution & Regulation Board
+# ⚡🔌🔋 UAV Power Distribution & Regulation Board
 
 ## Overview
 

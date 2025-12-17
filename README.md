@@ -12,6 +12,10 @@ In this revision, the power stage was **fully separated into a dedicated board**
 
 This modular architecture simplifies debugging, testing, maintenance, and future system upgrades, while improving isolation between high-current and low-power domains.
 
+## 📂 Contents
+- `/Hardware` →  Schematic, PCB, Gerbers.
+
+
 ## 🔗 Project Context
 
 This power distribution and regulation board is part of the ongoing hardware updates for the **DIY UAV project**.

@@ -81,7 +81,7 @@ The following image shows the complete setup of the **prototype version**:
       <sub> Power Stage PCB – Top View </sub>
     </td>
     <td align="center">
-        <img alt="stage power dron_v1_back" src="https://github.com/user-attachments/assets/ee7d4e42-d4eb-4bcf-9f91-032cfe8f443f" width="550"><br>
+        <img alt="stage power dron_v1_back" src="https://github.com/user-attachments/assets/ee7d4e42-d4eb-4bcf-9f91-032cfe8f443f" width="400"><br>
       <sub>Power Stage PCB – Bottom View </sub>
     </td>
   </tr>

@@ -70,6 +70,14 @@ Battery
 <img width="700" alt="stage power dron_v1" src="https://github.com/user-attachments/assets/bec7881d-a832-427a-b596-c14706bd7e3a" />
 </p>
 
+## ⚡ Physical Prototype
+
+The following image shows the complete setup of the **prototype version**:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa7f3e3f-6424-4d1b-8d71-56b7c1358583" alt=" Prototype Setup - Version 1" width="400">
+</p>
+
 ## 🤝 Support projects
  Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)
 

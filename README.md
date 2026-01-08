@@ -74,9 +74,18 @@ Battery
 
 The following image shows the complete setup of the **prototype version**:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aa7f3e3f-6424-4d1b-8d71-56b7c1358583" alt=" Prototype Setup - Version 1" width="400">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="stage power dron_v1_front" src="https://github.com/user-attachments/assets/aa7f3e3f-6424-4d1b-8d71-56b7c1358583" width="400"><br>
+      <sub> Power Stage PCB – Top View </sub>
+    </td>
+    <td align="center">
+        <img alt="stage power dron_v1_back" src="https://github.com/user-attachments/assets/ee7d4e42-d4eb-4bcf-9f91-032cfe8f443f" width="550"><br>
+      <sub>Power Stage PCB – Bottom View </sub>
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Support projects
  Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)

@@ -15,6 +15,10 @@ This modular architecture simplifies debugging, testing, maintenance, and future
 ## 📂 Contents
 - `/Hardware` →  Schematic, Gerbers.
 
+## 🌐 YouTube
+
+📺 [Upgrade Power Stage](https://youtube.com/shorts/vSKApaUKDLE?feature=share)
+
 
 ## 🔗 Project Context
 

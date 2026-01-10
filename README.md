@@ -82,14 +82,23 @@ The following image shows the complete setup of the **prototype version**:
   <tr>
     <td align="center">
       <img alt="stage power dron_v1_front" src="https://github.com/user-attachments/assets/aa7f3e3f-6424-4d1b-8d71-56b7c1358583" width="400"><br>
-      <sub> Power Stage PCB – Top View </sub>
+      <sub> Power Stage PCB V1 – Top View </sub>
     </td>
     <td align="center">
         <img alt="stage power dron_v1_back" src="https://github.com/user-attachments/assets/ee7d4e42-d4eb-4bcf-9f91-032cfe8f443f" width="400"><br>
-      <sub>Power Stage PCB – Bottom View </sub>
+      <sub>Power Stage PCB V1 – Bottom View </sub>
     </td>
   </tr>
 </table>
+
+## ⚠️ Disclaimer
+
+This project is intended **for educational and experimental purposes only**.
+
+The power distribution and regulation board is **not flight-certified** and has not been validated under aviation or safety-critical standards.
+
+Users are responsible for ensuring safe operation, proper electrical protection, and compliance with applicable regulations when working with high-current systems.
+
 
 ## 🤝 Support projects
  Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)

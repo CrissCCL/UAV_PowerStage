@@ -1,5 +1,12 @@
 # ⚡🔌🔋 UAV Power Distribution & Regulation Board
 
+![Hardware](https://img.shields.io/badge/Hardware-Power%20Stage-blue)
+![PCB](https://img.shields.io/badge/PCB-KiCad-lightgrey)
+![Power](https://img.shields.io/badge/Power-Distribution%20%26%20Regulation-orange)
+![Embedded](https://img.shields.io/badge/Embedded-UAV%20Platform-lightgrey)
+![License](https://img.shields.io/badge/License-See%20repo-lightgrey)
+
+
 ## Overview
 
 This repository documents an **updated power stage for an unmanned aerial vehicle (UAV)**, developed as a **standalone PCB** to improve system modularity, robustness, and power integrity.

@@ -97,12 +97,13 @@ The following image shows the **power distribution board installed inside the UA
 demonstrating real-world integration with the battery, ESCs, and avionics electronics.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c59f65a5-7506-4086-96c6-226f471ef056" width="250">
+  <img src="https://github.com/user-attachments/assets/c59f65a5-7506-4086-96c6-226f471ef056" width="350">
 </p>
 
 <p align="center">
   <sub>Power Stage PCB installed inside the UAV frame – full system integration test</sub>
 </p>
+
 
 ## ⚠️ Disclaimer
 

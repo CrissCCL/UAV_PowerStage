@@ -97,7 +97,7 @@ The following image shows the **power distribution board installed inside the UA
 demonstrating real-world integration with the battery, ESCs, and avionics electronics.
 
 <p align="center">
-  <img [src="https://github.com/user-attachments/assets/cc239c00-cba1-410d-b163-3e6bb00acfa0" width="350">
+  <img src="https://github.com/user-attachments/assets/cc239c00-cba1-410d-b163-3e6bb00acfa0" width="350">
 </p>
 
 

@@ -74,12 +74,6 @@ Battery
   </tr>
 </table>
 
-### Integrated Power Architecture Diagram
-
-<p align="center">
-<img width="700" alt="stage power dron_v1" src="https://github.com/user-attachments/assets/bec7881d-a832-427a-b596-c14706bd7e3a" />
-</p>
-
 ## ⚡ Physical Prototype
 
 The following image shows the complete setup of the **prototype version**:
@@ -96,6 +90,19 @@ The following image shows the complete setup of the **prototype version**:
     </td>
   </tr>
 </table>
+
+## 📸 In-System Integration (UAV Installation)
+
+The following image shows the **power distribution board installed inside the UAV platform**, 
+demonstrating real-world integration with the battery, ESCs, and avionics electronics.
+
+<p align="center">
+  <img ssrc="https://github.com/user-attachments/assets/c59f65a5-7506-4086-96c6-226f471ef056" width="750">
+</p>
+
+<p align="center">
+  <sub>Power Stage PCB installed inside the UAV frame – full system integration test</sub>
+</p>
 
 ## ⚠️ Disclaimer
 

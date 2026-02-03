@@ -52,7 +52,7 @@ The power board is responsible for managing the **battery input**, distributing 
 The power distribution follows a centralized architecture in which the battery input is first managed by a high-side power switch, and then distributed to both high-current and low-voltage domains.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/37355f72-fe3c-4f35-9487-9f99a34a5871" width="700">
+  <img src="https://github.com/user-attachments/assets/37355f72-fe3c-4f35-9487-9f99a34a5871" width="400">
 </p>
 
 
